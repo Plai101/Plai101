@@ -3,6 +3,7 @@ I'm Sirapop Boonmun but you can call me Plai.
 I'm currently working as an engineer specializing in Operation Risk Management.
 Beyond my professional role, I have a deep passion for data analytics. I’m fascinated by the power of data to uncover insights, drive decisions, and solve real-world problems. I'm continuously learning new tools and techniques to sharpen my analytical skills and turn data into meaningful stories.
  🌟 Contact information
+ 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sirapop-boonmun-b7a28922a/)
 
 <!--
